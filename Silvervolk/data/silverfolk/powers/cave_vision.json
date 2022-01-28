@@ -1,7 +1,7 @@
 {
   "type": "origins:night_vision",
   "name": "Cave eyes",
-  "description": "Because you have adapted to cave life you have night-vision",
+  "description": "Because you have adapted to cave life you have night-vision.",
   "strength": 1,
   "condition": {
     "type": "origins:submerged_in",
