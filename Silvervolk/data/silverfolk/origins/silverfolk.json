@@ -1,0 +1,18 @@
+{
+  "impact": 2,
+  "unchoosable": false,
+  "name": "Silverfolk",
+  "description": "A creature closly related to the Silverfish and still friends with them",
+  "icon": "minecraft:cracked_stone_bricks",
+  "powers": [
+    "silverfolk:silverfish_neutrality",
+    "silverfolk:natural_miner",
+    "silverfolk:small_stature",
+    "silverfolk:cave_vision",
+    "silverfolk:small_size",
+    "silverfolk:weak_arms",
+    "silverfolk:darkdepth",
+    "origins:climbing",
+    "origins:arthropod"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "type":"origins:modify_break_speed",
+    "name": "Natural Miner",
+    "description": "You are adepted at burrowing underground. You are able to break any type of stone, dirt, gravel or sand 20% faster",
+    "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "silverfolk:faster_mining_blocks"
+    },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.2
+    }
+}

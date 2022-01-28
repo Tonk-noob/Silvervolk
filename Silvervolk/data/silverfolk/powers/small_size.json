@@ -1,0 +1,25 @@
+{
+    "type": "origins:action_on_callback",
+    "name": "Small stature",
+    "description": "As a silverfolk, you are a similar size to a silverfish, and thus are only 1 block tall.  Due to being so small, your health is decreased by 4 hearts, your attack- and build range by 0.5, and your speed by 10%. ",
+    "entity_action_chosen": {
+        "type": "origins:execute_command",
+        "command": "scale set extraorigins:modify_size 0.5 @s",
+        "permission_level": 4
+    },
+    "entity_action_respawned": {
+        "type": "origins:execute_command",
+        "command": "scale set extraorigins:modify_size 0.5 @s",
+        "permission_level": 4
+    },
+    "entity_action_lost": {
+        "type": "origins:execute_command",
+        "command": "scale set 1 @s",
+        "permission_level": 4
+    },
+    "entity_action_removed": {
+        "type": "origins:execute_command",
+        "command": "scale set 1 @s",
+        "permission_level": 4
+    }
+}

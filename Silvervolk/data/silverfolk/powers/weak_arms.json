@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		  "name": "Attack speed decrease",
+		  "attribute": "minecraft:generic.attack_speed",
+		  "value": -0.25,
+		  "operation": "addition"
+	},
+	"name": "Weak arms",
+	"description": "Your arms are too small to wield weapons fast!"
+}	

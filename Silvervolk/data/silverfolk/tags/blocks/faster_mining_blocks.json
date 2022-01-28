@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:stone",
+        "minecraft:cobblestone",
+        "minecraft:mossy_cobblestone",
+        "minecraft:granite",
+        "minecraft:diorite",
+        "minecraft:andesite",
+        "minecraft:dirt",
+        "minecraft:coarse_dirt",
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "minecraft:gravel",
+        "minecraft:grass_block",
+        "minecraft:podzol",
+        "minecraft:sandstone",
+        "minecraft:red_sandstone"
+    ]
+}

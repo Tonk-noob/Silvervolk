@@ -1,0 +1,30 @@
+{
+    "type": "origins:attribute",
+    "modifiers": [
+        {
+            "name": "Max health decrease",
+            "attribute": "minecraft:generic.max_health",
+            "value": -8,
+            "operation": "addition"
+        },
+        {
+            "name": "Origin modifier",
+            "attribute": "generic.movement_speed",
+            "value": -0.1,
+            "operation": "multiply_total"
+        },
+        {
+            "name": "Origin modifier",
+            "attribute": "reach-entity-attributes:attack_range",
+            "value": -0.3,
+            "operation": "addition"
+        },
+        {
+            "name": "Origin modifier",
+            "attribute": "reach-entity-attributes:reach",
+            "value": -0.5,
+            "operation": "addition"
+        }
+    ],
+    "hidden" : true
+}
