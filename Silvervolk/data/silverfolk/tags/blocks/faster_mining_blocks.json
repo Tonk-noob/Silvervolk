@@ -12,6 +12,7 @@
         "#minecraft:lapis_ores",
         "#minecraft:redstone_ores",
         "#minecraft:dirt",
+        "minecraft:cobblestone",
         "minecraft:gravel",
         "minecraft:sandstone",
         "minecraft:smooth_sandstone",
