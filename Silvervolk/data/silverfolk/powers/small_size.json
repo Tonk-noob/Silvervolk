@@ -10,6 +10,11 @@
             "command": "scale set pehkui:base 0.5 @s",
             "permission_level": 4
         },
+        {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:reach 2 @s",
+            "permission_level": 4
+        },
         {    
             "type": "origins:execute_command",
             "command": "scale set pehkui:motion 2 @s",
@@ -22,6 +27,11 @@
         {
             "type": "origins:execute_command",
             "command": "scale set pehkui:base 0.5 @s",
+            "permission_level": 4
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:reach 2 @s",
             "permission_level": 4
         },
         {    
@@ -37,12 +47,12 @@
     },
     "entity_action_removed": {
         "type": "origins:execute_command",
-        "command": "scale reset 1 @s",
+        "command": "scale reset @s",
         "permission_level": 4
     },
     "entity_action_added": {
         "type": "origins:execute_command",
-        "command": "scale reset 1 @s",
+        "command": "scale reset @s",
         "permission_level": 4
     }
 }
