@@ -1,8 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#minecraft:base_stone_overworld",
-        "#minecraft:base_stone_nether",
+        "#origins:natural_stone",
         "#minecraft:coal_ores",
         "#minecraft:copper_ores",
         "#minecraft:diamond_ores",
@@ -11,12 +10,7 @@
         "#minecraft:iron_ores",
         "#minecraft:lapis_ores",
         "#minecraft:redstone_ores",
-        "#minecraft:dirt",
         "minecraft:cobblestone",
-        "minecraft:gravel",
-        "minecraft:sandstone",
-        "minecraft:smooth_sandstone",
-        "minecraft:red_sandstone",
-        "minecraft:smooth_red_sandstone"
+        "minecraft:calcite"
     ]
 }
